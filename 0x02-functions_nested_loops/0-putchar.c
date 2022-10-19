@@ -1,13 +1,13 @@
-#include "main.h" 
+#include "main.h"
 
-/** 
+/**
  * main - print _putchar
  *
  * Return: Always 0
  */
 
-int amin(void)
-{	
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
