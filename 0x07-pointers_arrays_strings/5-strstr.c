@@ -1,11 +1,14 @@
 #include "main.h"
 
 /**
- * _strstr - locates a substring
+ * _strstr - function that locates a substring
+ *
  * @needle: char pointer
  * @haystack: char pointer
+ *
  * Return: s
  */
+
 char *_strstr(char *haystack, char *needle)
 {
 	int count;
